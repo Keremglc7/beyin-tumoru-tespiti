@@ -1,0 +1,8 @@
+venv/
+DATA/
+Training/
+Testing/
+model/
+*.zip
+*.tar
+__pycache__/
